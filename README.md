@@ -4,7 +4,6 @@
 
 - Understand what a React component is and what it can be used for
 - Write React components and show the DOM elements they create
-
 ## Overview
 
 We'll introduce the heart of React: components. This will include explaining why
